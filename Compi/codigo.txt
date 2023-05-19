@@ -1,0 +1,30 @@
+program codigo;
+
+var 
+    a : integer;
+    b : integer;
+    c : integer;
+    d : boolean;
+    e : real;
+    f : string;
+begin
+    a := b + a * d - 2;
+
+    
+
+    if c >= 20 then
+        c := 100;
+    else
+        a := 10;
+        while c < 20 do
+            write(a);
+        endwhile;
+        c := 10;
+    endif;
+    
+    if a < 1000 then
+        read(d);
+    endif;
+    a := 1000;
+
+end.
